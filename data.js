@@ -11,7 +11,7 @@
 window.DASHBOARD_DATA = {
   profile: {
     name: "阿劍",
-    lang: "Rust",
+    lang: "Go",
   },
   sections: [
     {
